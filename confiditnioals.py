@@ -38,9 +38,44 @@ def main_calculator():
     print("3. Multiplication")
     print("4. Division")
 
-   
 
 
+
+def movieTickets():
+    age= int(input())
+    if age<7:
+        print("8.00")
+    else:
+        print("Error. something went wrong)
+
+def movieTickets():
+    age= int(input())
+    if age>= 8 and age<=20
+        print("12.00")
+    else:
+        print("Error. something went wrong)
+
+def movieTickets():
+    age= int(input())
+    if age>= 21 and age<=60
+        print("20.00")
+    elif age >=61:
+        print("your ticket is free")    
+    else:
+        print("Error. something went wrong)
+
+
+
+              
+
+
+
+
+
+
+
+
+movieTickets()
 
 
 
