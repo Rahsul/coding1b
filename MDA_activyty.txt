@@ -1,0 +1,13 @@
+ Mechanics
+Flappy bird is a game where all you have to do is to simpily tap start to begin the game and get the bird through the pipes. To get 
+the bird through the pipes on computer you have to left click the mouse or either space and on mobile all you have to do is tap the screen.
+
+
+ Dynamics
+This game does have a unique playing style because all you haver to do is littelry tap
+
+
+ Aesthetics
+Its a little difficult and it is massivly addictive
+
+

@@ -46,7 +46,7 @@ def movieTickets():
     if age<7:
         print("8.00")
     else:
-        print("Error. something went wrong)
+        print(Error. something went wrong)
 
 def movieTickets():
     age= int(input())
@@ -62,11 +62,12 @@ def movieTickets():
     elif age >=61:
         print("your ticket is free")    
     else:
-        print("Error. something went wrong)
+        print("Error. something went wrong")
 
 
 
-              
+
+
 
 
 
