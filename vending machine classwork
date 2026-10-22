@@ -1,0 +1,51 @@
+ 
+def vending_machine():
+    while True:
+        choice = input("Enter item number (or q to quit): ").upper()
+
+        if choice == "B3":
+            print("You got Nacho Chips!")
+
+        elif choice == "G4":
+            print("You got BBQ Chips!")
+
+        elif choice == "G7":
+            print("You got Plain Chips!")
+
+        elif choice == "D3":
+            print("You got Water!")
+
+        elif choice == "G5":
+            print("You got Cola Soda!")
+
+        elif choice == "Q":
+            print("Goodbye!")
+            break
+
+        else:
+            print("Invalid number. Try again!")
+
+vending_machine()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
