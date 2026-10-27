@@ -21,6 +21,7 @@ def dice_game():
     print("Game over! Your final score is:", score)
 
 dice_game()
+#gjhk
 
 
 
