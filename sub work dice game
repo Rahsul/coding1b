@@ -10,15 +10,16 @@ def dice_game():
 
         if roll == 7:
             score = score + 10
-            print("You earned 10 points!")
+        print("You earned 10 points!")
         else:
             score = score - 5
-            print("you lost 5 points.")
+
+        print("you lost 5 points.")
 
         print("Your current score is:", score)
         choice = input("Enter 'r' to roll again or 'q' to quit: ")
 
-    print("Game over! Your final score is:", score)
+        print("Game over! Your final score is:", score)
 
 dice_game()
 
