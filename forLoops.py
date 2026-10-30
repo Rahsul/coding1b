@@ -48,3 +48,49 @@
      # I want to find ALL the grades lower than 85.
      if i < 85:
          print(i)  
+
+
+ # List are collection types for storing multiple peices of data
+ # Key elements and purposes for list:
+ # list are organized and structured
+ # List can be manipulated and modified - mutable (mean changeable)
+ # List items are accesessiable and usale
+
+ # whem we wamt acess and item is in a list we use the indexing system
+ # every item is numbered.
+ # a list index always starts at zero (0)
+
+ inventory= ["sword", " sheild", "healing potion", "armour"]
+
+ print(inventory[0]) # indicated im going to first position in the list
+
+# When we want add an item to our list, we use the append() method
+
+# Use a method to remove the "healing" potion from the list
+
+# Use a "warhammer" to the end of the list
+
+# Use a method to add a new "healing potion" to index 4 of the list
+
+
+
+inventory = ["sword", "shield", "healing potion", "armour"]
+
+# Print the first item in the list
+print(inventory[0])
+
+# Remove the healing potion from the list
+inventory.remove("healing potion")
+
+# Add a warhammer to the end of the list
+inventory.append("warhammer")
+
+# Add a new healing potion at index 4
+inventory.insert(4, "healing potion")
+
+# Print the updated inventory
+print(inventory)
+
+
+
+
