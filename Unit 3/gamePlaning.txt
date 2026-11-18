@@ -1,3 +1,5 @@
  My game will be like a running game. Where you have to run for certain things or run from something.It would
- Be a light themed game.You will have to use the arrow keys and the space bar. The space bar is to jump and stuff
+ Be a light themed game.You will have to use the arrow keys and the space bar.
+ 
+ The space bar is to jump and stuff
  and the arrow keys is to move left right down and up.This game will be a 2D game also.

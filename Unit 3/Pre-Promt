@@ -1,0 +1,13 @@
+  1 I am making a Game where the obstacle is to basically just run and jump to other obstacles.The player will have to complete 
+ differnt challenges to reach certain levels and the levels evolve harder everytime.
+
+  2 My game will begin right away or wherever you left off because i dont feel theres a need for a welcome screen 
+ you should know what your here for if your intersted in my game so you just load in.
+
+  3 Game objects that will be in the game is ladders, spikes, water, and stairs.
+
+  4 The control scheme will be used by arrow keys left right and just the space bar.
+
+  5 The spikes will kill you the water will kill you
+
+  6 The win or loss conditions of my game will be based off timed game play and stars you collect.
